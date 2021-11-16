@@ -1,0 +1,5 @@
+namespace: dave-valuesfiles
+helm:
+  valuesFiles:
+    - flavour-values.yaml
+    - deployment-values.yaml
