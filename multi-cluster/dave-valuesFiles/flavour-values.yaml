@@ -6,7 +6,6 @@ microService1:
     requests:
       cpu: 256m
       memory: 256Mi
-  
 microService2:
   resources:
     limits:
