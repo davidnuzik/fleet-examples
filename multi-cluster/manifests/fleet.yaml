@@ -28,4 +28,4 @@ targetCustomizations:
     - servicelb
     - scale3
 dependsOn:
-  - name: dave563-dave-custom-mc-helm-example
+  - name: dave-custom-mc-helm-example
