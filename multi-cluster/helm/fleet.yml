@@ -1,3 +1,6 @@
+name: dave-custom-mc-helm-example
+labels:
+  tacos: rule
 namespace: fleet-mc-helm-example
 targetCustomizations:
 - name: dev
