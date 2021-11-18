@@ -28,4 +28,6 @@ targetCustomizations:
     - servicelb
     - scale3
 dependsOn:
-  - name: dave-custom-mc-helm-example
+  - bundleSelector:
+      matchLabels:
+        tacos: rule 
