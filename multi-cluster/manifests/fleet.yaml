@@ -28,6 +28,6 @@ targetCustomizations:
     - servicelb
     - scale3
 dependsOn:
-  - bundleSelector:
+  - selector:
       matchLabels:
         tacos: rule 
